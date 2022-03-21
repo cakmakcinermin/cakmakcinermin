@@ -1,15 +1,15 @@
 # README
 ![snake svg](https://github.com/nermincakmakci/nermincakmakci/blob/output/github-contribution-grid-snake.svg)
 <h3 align="center">Hey there, I'm Nermin  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-<h3 align="center">Join to my DEVOPS Journey
+<h3 align="center">Join my DEVOPS Journey
 
-<a href="#"><img width="50%" height="auto" src="![image](https://user-images.githubusercontent.com/96360040/158347720-eccfe991-1374-49d0-a3b7-3047b362fe7c.png)" height="75px"/></a>
 
- <h3 align="center"> <img src="https://user-images.githubusercontent.com/96360040/159213110-2fdaf4e9-4a7d-4d47-9fc2-80e08b528d57.gif" width="800">
+
+ <h3 align="center"> <img src="https://media-exp1.licdn.com/dms/image/C4E03AQHEceMrPWLPFA/profile-displayphoto-shrink_800_800/0/1645067745534?e=1653523200&v=beta&t=5FE-SYfPBj1eja44hsETfT5X7AkNw836kyDdhY6zIQo" width="200">
    
 ## < About Me>
 - 👋 Hi, I’m @nermin cakmakci
-- 👨‍🎓 I’m an Electronics and Communications M.Sc. 
+- 👨‍🎓 I’m an IT Developer 
 - 👨‍🏫 I’m interested in IT, Automation and Electronic
 - 👀 I’m currently learning AWS and DevOps 
 - 🥇 I like 🏊‍♂, ⛹‍♂, 🚵‍♂, 🎣 and i love cats 🐈 especially GITHUB CAT <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" width="4%">
@@ -28,16 +28,15 @@
  <h3 align="left">Connect with me:</h3>
 <p align="left"> 
  
-  [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" color="white" alt="linkedin" height="30" width="40" />](https://www.linkedin.com/in/nermin-gür-98190267/)
- [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/600px-Instagram-Icon.png?20190314235631" background-color="white" alt="instagram" height="30" width="40" />](https://www.instagram.com/gurnermin/)
- [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308" background-color="white" alt="instagram" height="30" width="40" />](mailto:gurnermin@gmail.com)
+ [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" color="white" alt="linkedin" height="30" width="40" />](www.linkedin.com/in/nermin-c/)
+ [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308" background-color="white" alt="instagram" height="30" width="40" />](mailto:nermincakmakcii@gmail.com)
 
 <p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nermincakmakci&langs_count=10&theme=cobalt&layout=compact" alt="nermin" /></p>
 <br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nermincakmakci&show_icons=true&theme=cobalt" alt="nermin" /></p>
  
   
-[ <p align="right"> ![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dnermincakmakci)](https://github.com/nermincakmakci) <img alt="Coding" width="90" height="19" src="https://komarev.com/ghpvc/?username=nermincakmakci&label=Profile%20views&color=129e00&style=plastic" alt="nermin" /> </p> 
+[ <p align="right"> ![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dnermincakmakci)](https://github.com/nermincakmakci) <img alt="Coding" width="90" height="19" src="https://komarev.com/ghpvc/?username=nermincakmakci&label=Profile%20views&color=129e00&style=plastic" alt="Nermin" /> </p> 
 <hr> 
  <!---
 nermincakmakci/nermincakmakci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
