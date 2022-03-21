@@ -22,7 +22,7 @@
 ----------------
 
 
-  [<img align="center" src="https://media-exp1.licdn.com/dms/image/C5622AQGblApAyEwcyA/feedshare-shrink_800/0/1647354255932?e=1650499200&v=beta&t=7RLhpZIaintkKenpSjICLidCMHR5yNvTtRU4K7RGucI" color="white" alt="NightFighterClub" height="140" width="200" />](https://www.linkedin.com/groups/14059731/) 
+  
 ---------------
  <h3 align="left">Connect with me:</h3>
 <p align="left"> 
