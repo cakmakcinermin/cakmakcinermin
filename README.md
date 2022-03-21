@@ -36,7 +36,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nermincakmakci&show_icons=true&theme=cobalt" alt="nermin" /></p>
  
   
-[ <p align="right"> ![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dnermincakmakci)](https://github.com/nermincakmakci) <img alt="Coding" width="90" height="19" src="https://komarev.com/ghpvc/?username=nermincakmakci&label=Profile%20views&color=129e00&style=plastic" alt="Nermin" /> </p> 
+<p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nermin&langs_count=10&theme=cobalt&layout=compact" alt="Nermin" /></p>
+<br><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nermin&show_icons=true&theme=cobalt" alt="Nermin" /></p>
 <hr> 
  <!---
 nermincakmakci/nermincakmakci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
