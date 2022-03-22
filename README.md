@@ -1,12 +1,18 @@
 # README
 ![snake svg](https://github.com/cakmakcinermin/cakmakcinermin/blob/output/github-contribution-grid-snake.svg)
 
-<h3 align="center">Hey there, I'm Nermin  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<h2 align="center">Hey there, I'm Nermin! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
+ 
+<br> <img src="https://www.corporatelivewire.com/images/blogs/1075/788548808.jpg" width="300">
+<br>
+ 
+ 
+ 
 <h3 align="center">Join my DEVOPS Journey
 
 
 
- <h3 align="center"> <img src="https://media-exp1.licdn.com/dms/image/C4E03AQHEceMrPWLPFA/profile-displayphoto-shrink_800_800/0/1645067745534?e=1653523200&v=beta&t=5FE-SYfPBj1eja44hsETfT5X7AkNw836kyDdhY6zIQo" width="80">
+ <h3 align="center"> <img src="https://media-exp1.licdn.com/dms/image/C4E03AQHEceMrPWLPFA/profile-displayphoto-shrink_800_800/0/1645067745534?e=1653523200&v=beta&t=5FE-SYfPBj1eja44hsETfT5X7AkNw836kyDdhY6zIQo" width="100">
    
 ## < About Me>
 - 👋 Hi, I’m @nermin cakmakci
