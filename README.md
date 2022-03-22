@@ -3,7 +3,7 @@
 
 <h2 align="center">Hey there, I'm Nermin! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
  
-<br> <img src="https://www.corporatelivewire.com/images/blogs/1075/788548808.jpg" width="300">
+<br> <img src="https://i2-prod.manchestereveningnews.co.uk/incoming/article14379834.ece/ALTERNATES/s810/050318_LRR_MEN_WomenTech.jpg" width="300">
 <br>
  
  
@@ -11,16 +11,19 @@
 <h3 align="center">Join my DEVOPS Journey
 
 
-
- <h3 align="center"> <img src="https://media-exp1.licdn.com/dms/image/C4E03AQHEceMrPWLPFA/profile-displayphoto-shrink_800_800/0/1645067745534?e=1653523200&v=beta&t=5FE-SYfPBj1eja44hsETfT5X7AkNw836kyDdhY6zIQo" width="100">
+ <h3 align="center"> <img src="https://media-exp1.licdn.com/dms/image/C4E03AQHEceMrPWLPFA/profile-displayphoto-shrink_800_800/0/1645067745534?e=1653523200&v=beta&t=5FE-SYfPBj1eja44hsETfT5X7AkNw836kyDdhY6zIQo" width="200">
    
 ## < About Me>
-- 👋 Hi, I’m @nermin cakmakci
-- 👩‍🎓 I’m an IT Developer 
-- 🙋‍♀️ I’m interested in IT, Automation and Electronic
-- 👀 I’m currently learning AWS and DevOps 
-- 🥇 I like 📖, 🧑‍🎨, 🚵‍♂, 🤾‍, 🎾 and i love cats 🐈 especially GITHUB CAT <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" width="4%">
-- 💞️ I’m looking to collaborate on DevOps;
+- 👋 Hi, I’m @Nermin Cakmakci.
+- 👩‍🎓 I’m a professional school counselor and IT Developer.
+- 🥇 I like 📖, 🧑‍🎨, 🚵‍♂, 🤾‍, 🎾 and I love cats 🐈 especially GITHUB CAT <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" width="4%">
+  
+<img align="center" src="https://www.emojiall.com/en/header-svg/%F0%9F%92%BB.svg" background-color="white" alt="instagram" height="30" width="40" />   - 👀 I’m interested in IT.
+
+ [<img align="center" src="https://media-exp1.licdn.com/dms/image/C4D22AQHk15V_X2up1A/feedshare-shrink_2048_1536/0/1647239167260?e=1649894400&v=beta&t=_bpOd1z9V0KzC8iVMRp87zeeQbl8mUIgtDjHNyMOWTE" background-color="white" alt="instagram" height="30" width="40" />](https://aws.amazon.com/tr/console/)   - 🌱 I’m currently learning AWS and DevOps.
+
+<img align="center" src="https://2svkzb1o71wr1z98lv262kr3-wpengine.netdna-ssl.com/wp-content/uploads/2019/07/06127-Dr-Linkedin-Animated-Logo-GIF-v1.gif" background-color="white" alt="instagram" height="35" width="40" />  - 💞️ I’m looking to collaborate on DevOps.
+
 ----------------
 <h3 align="center"> <img src="https://user-images.githubusercontent.com/96360040/159220580-1e572ad3-de21-423c-a6d3-d26010bd442e.png" width="400">
   
