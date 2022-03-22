@@ -34,7 +34,7 @@
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-[<img align="center" src="https://cdn.dribbble.com/users/2118564/screenshots/4240923/gmail-sent-animation.gif" background-color="white" alt="instagram" height="40" width="50" />](mailto:nermincakmakcii@gmail.com)   - 📫 nermincakmakcii@gmail.com  ✨   [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/90/Outlook.com_icon_%282012-2019%29.svg" background-color="white" alt="outlook mail" height="30" width="40" />](mailto:nermincakmakcii@gmail.com)
+[<img align="center" src="https://cdn.dribbble.com/users/2118564/screenshots/4240923/gmail-sent-animation.gif" background-color="white" alt="instagram" height="40" width="50" />](mailto:nermincakmakcii@gmail.com)   - 📫 nermincakmakcii@gmail.com  ✨   [<img align="center" src="https://cdn.vox-cdn.com/thumbor/Tbqi3ZF9Qz0fTJIUvkgQe3FdN0k=/1400x788/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/21939811/newgmaillogo.jpg" background-color="white" alt="outlook mail" height="50" width="70" />](mailto:nermincakmakcii@gmail.com)
 
 
 [<img align="center" src="https://cdn.dribbble.com/users/759099/screenshots/3584436/linked_in2.gif" color="white" alt="linkedin" height="35" width="45" />](https://www.linkedin.com/in/nermin-c/)   - 📫 www.linkedin.com/in/nermin-c/   ✨   [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" color="white" alt="linkedin" height="35" width="45" />](www.linkedin.com/in/nermin-c/)
