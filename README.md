@@ -15,7 +15,8 @@
    
 ## < About Me>
 - 👋 Hi, I’m @Nermin Cakmakci.
-- 👩‍🎓 I’m a professional school counselor and IT Developer.
+- 👩‍🎓 I’m a professional school counselor.
+- 🧑‍💻 I like to research and learn new information.
 - 🥇 I like 📖, 🧑‍🎨, 🚵‍♂, 🤾‍, 🎾 and I love cats 🐈 especially GITHUB CAT <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" width="4%">
   
 <img align="center" src="https://www.emojiall.com/en/header-svg/%F0%9F%92%BB.svg" background-color="white" alt="instagram" height="30" width="40" />   - 👀 I’m interested in IT.
