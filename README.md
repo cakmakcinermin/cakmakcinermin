@@ -43,11 +43,14 @@
   
 
 
-<p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nermin&langs_count=10&theme=cobalt&layout=compact" alt="Nermin" /></p>
-<br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nermin&show_icons=true&theme=cobalt" alt="Nermin" /></p>
+<p align="center">
+<img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=Cakmakcinermin&show_icons=true&line_height=21&theme=react" alt="Nermin's Github Stats" />
+<img width="340" height="155" align="center" 
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cakmakcinermin&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" />
+</p>
  
- <!---
-nermincakmakci/nermincakmakci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+⭐️ From [Nermin Cakmakci](https://github.com/cakmakcinermin)
+<!--
+**cakmakcinermin/cakmakcinermin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
