@@ -10,12 +10,11 @@
  
 <h3 align="center">Join my DEVOPS Journey
 
-
  <h3 align="center"> <img src="https://media-exp1.licdn.com/dms/image/C4E03AQHEceMrPWLPFA/profile-displayphoto-shrink_800_800/0/1645067745534?e=1653523200&v=beta&t=5FE-SYfPBj1eja44hsETfT5X7AkNw836kyDdhY6zIQo" width="200">
    
 ## < About Me>
 - 👋 Hi, I’m @Nermin Cakmakci.
-- 👩‍🎓 I’m a professional school counselor.
+- 👩‍🎓 I’m a IT developer.
 - 🧑‍💻 I like to research and learn new information.
 - 🥇 I like 📖, 🧑‍🎨, 🚵‍♂, 🤾‍, 🎾 and I love cats 🐈 especially GITHUB CAT <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" width="4%">
   
