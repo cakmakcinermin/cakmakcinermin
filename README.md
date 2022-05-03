@@ -11,14 +11,17 @@
 <h3 align="center">Join my DevOps journey
 
  <h3 align="center"> <img src="https://media-exp1.licdn.com/dms/image/C4E03AQHEceMrPWLPFA/profile-displayphoto-shrink_800_800/0/1645067745534?e=1653523200&v=beta&t=5FE-SYfPBj1eja44hsETfT5X7AkNw836kyDdhY6zIQo" width="200">
+  
+  
+   DevOps & Cloud Engineer Trainee | AWS CCP| Docker | Kubernetes | Ansible | Jenkins | Terraform | Linux | Git&GitHub |
+  
    
 ## < About Me>
   Devops Engineer | AWS Solution Architect | Professional School Counselor
   
 - 👋 Hi, I’m @Nermin Cakmakci.
 - 👩‍🎓 I’m a IT developer.
-- 🧑‍💻 I like to research and learn new information.
-- 🥇 I like 📖, 🧑‍🎨, 🚵‍♂, 🤾‍, 🎾 and I love cats 🐈 especially GITHUB CAT <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" width="4%">
+- 🧑‍💻 I like to research and learn new information and tools.
   
 <img align="center" src="https://www.emojiall.com/en/header-svg/%F0%9F%92%BB.svg" background-color="white" alt="instagram" height="30" width="40" />   - 👀 I’m interested in IT.
 
