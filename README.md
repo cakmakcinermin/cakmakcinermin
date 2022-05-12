@@ -17,6 +17,8 @@
 - 👋 Hi, I’m @Nermin Cakmakci.
 - 👩‍🎓 I’m a IT developer.
 - 🧑‍💻 I like to research and learn new information and tools.
+- ✨ Quote: "Once you stop learning, you start dying" - Einstein. <br>
+     “Never be afraid to learn something, because the moment you stop learning is the moment you start dying.”
   
 <img align="center" src="https://www.emojiall.com/en/header-svg/%F0%9F%92%BB.svg" background-color="white" alt="instagram" height="30" width="40" />   - 👀 I’m interested in IT.
 
