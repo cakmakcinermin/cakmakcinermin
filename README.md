@@ -2,7 +2,12 @@
 ![snake svg](https://github.com/cakmakcinermin/cakmakcinermin/blob/output/github-contribution-grid-snake.svg)
 
 
-<h2 align="center">Hey there, I'm Nermin!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
+<h2 align="center">Hey there, I'm Nermin Cakmakci!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
+ 
+ 
+ # <h2>`DevOps Engineer`</h2>
+
+![DEVOPS.gif](./DEVOPS.gif)
  
 
  <h3 align="center"> <img src="https://media-exp1.licdn.com/dms/image/C4E03AQHEceMrPWLPFA/profile-displayphoto-shrink_800_800/0/1645067745534?e=1653523200&v=beta&t=5FE-SYfPBj1eja44hsETfT5X7AkNw836kyDdhY6zIQo" width="200">
@@ -15,7 +20,7 @@
 ## < About Me>
   Devops Engineer | AWS Solution Architect | Professional School Counselor
   
-- 👋 Hi, I’m @Nermin Cakmakci.
+
 - 👩‍🎓 I’m a IT developer.
 - 🧑‍💻 I like to research and learn new information and tools.
 - ✨ Quote: "Once you stop learning, you start dying" - Einstein. <br>
