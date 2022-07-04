@@ -2,7 +2,8 @@
 ![snake svg](https://github.com/cakmakcinermin/cakmakcinermin/blob/output/github-contribution-grid-snake.svg)
 
 
-<h2 align="center">Hey there, I'm Nermin Cakmakci!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
+[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Nermin+Cakmakci;Welcome+to+my+Github+profile;I'm+AWS+Cloud+and+DevOps+Engineer;)](https://git.io/typing-svg)
+<p align="center">
  
  
  # <h2>`DevOps Engineer`</h2>
