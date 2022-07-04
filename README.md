@@ -23,7 +23,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 🌱 I’m currently learning AWS, Linux, Cloud Formation, Docker, Kubernetes, Terraform
-- 🧑‍💻 I like to research and learn new information and tools.
+- I like to research and learn new information and tools.
 - A lifelong learner. 
 - ✨ Quote: "Once you stop learning, you start dying" - Einstein. <br>
      “Never be afraid to learn something, because the moment you stop learning is the moment you start dying.”
